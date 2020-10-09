@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <VersionPrefix>6.3.2</VersionPrefix>
+    <VersionPrefix>6.4.0</VersionPrefix>
     <Description>JSON for F#</Description>
+    <Authors>Andrew Cherry;Michael Newton;Henrik Feldt;Marcus Griep;Tony Williams</Authors>
+    <Description>Monadic JSON serialization/deserialization library for F#</Description>
     <Owners>Andrew Cherry</Owners>
     <Copyright>Copyright © Xyncro Ltd 2018</Copyright>
     <Authors>Andrew Cherry, Michael Newton, Henrik Feldt, Marcus Griep, Tony Williams</Authors>

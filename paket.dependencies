@@ -1,0 +1,13 @@
+source https://api.nuget.org/v3/index.json
+
+nuget Aether 8.2.0
+nuget BenchmarkDotNet >= 0.10.0
+nuget FParsec 1.0.3
+nuget FsCheck >= 3.0.0-0 prerelease
+nuget FsCheck.Xunit >= 3.0.0-0 prerelease
+nuget FSharp.Core 4.3.4
+nuget Microsoft.NET.Test.Sdk >= 15.8.0
+nuget Newtonsoft.Json >= 9.0
+nuget Unquote >= 4.0
+nuget xunit 2.4.0
+nuget xunit.runner.visualstudio 2.4.0
